@@ -1,17 +1,17 @@
-![logo](https://github.com/Priyanshu-752/Priyanshu-752/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif?raw=true)
-<h1 align="center">Hi 👋, I'm Priyanshu Negi</h1>
+![logo](https://github.com/BhaweshPandey/BhaweshPandey/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif?raw=true)
+<h1 align="center">Hi 👋, I'm Bhawesh Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-752&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-752" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BhaweshPandey&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-752" /> </p>
 
 - 🔭 I’m currently working as **Trainee in Software Cell Department of Graphic Era Hill University, Haldwani **
 
-- 🌱 I’m currently learning **Typescript and Node Js**
+- 🌱 I’m currently learning **Typescript and Next Js**
 
 - 🤝 I’m looking for help with **Ar and Vr Tech stacks**
 
 - 💬 Ask me about **react and react native**
 
-- 📫 How to reach me **priyanshunegi752@gmail.com**
+- 📫 How to reach me **Bhaweshp17@gmail.com**
 
 
 - ⚡ Fun fact **Developers daily turn on their gf, the name of their gf is laptop.😆**

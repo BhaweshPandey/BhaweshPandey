@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BhaweshPandey&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-752" /> </p>
 
-- 🔭 I’m currently working as **Trainee in Software Cell Department of Graphic Era Hill University, Haldwani **
+- 🔭 I’m currently working as ** Highpolar-Softwares **
 
 - 🌱 I’m currently learning **Typescript and Next Js**
 

@@ -17,8 +17,6 @@
 - ⚡ Fun fact **Developers daily turn on their gf, the name of their gf is laptop.😆**
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -7,6 +7,6 @@
 - 📫 How to reach me: [Your Email Address](mailto:youremail@example.com)
 - 😄 Pronouns: He/Him
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BhaweshPandey&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaweshPandey&layout=compact)](https://github.com/BhaweshPandey)
